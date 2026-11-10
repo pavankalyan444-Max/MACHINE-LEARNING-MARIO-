@@ -1,0 +1,6 @@
+mario_env/
+__pycache__/
+*.py[cod]
+checkpoints/
+*.pth
+runs/
